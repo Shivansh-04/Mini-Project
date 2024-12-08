@@ -25,12 +25,12 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/restaurant-website.git
+    git clone https://github.com/Shivansh-04/Mini-Project
     ```
 
 2. **Navigate to the project folder**:
     ```bash
-    cd restaurant-website
+    cd food-website
     ```
 
 3. **Open the website**:
@@ -65,6 +65,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For inquiries or support, feel free to reach out:
 
-- **Email**: contact@ourrestaurant.com
-- **Phone**: +123-456-7890
-- **Address**: 123 Food Street, City, Country
+- **Email**: contact@spicesymphony.in
+- **Phone**: +91-8866998866
+- **Address**: Spice Symphony Restaurant, B-34, First Floor, Near Connaught Place, New Delhi - 110001, Delhi, India.
